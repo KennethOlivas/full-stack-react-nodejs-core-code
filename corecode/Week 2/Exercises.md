@@ -12,17 +12,3 @@
         return input === reversed;
     }
 ````
-
-## Multiple of index
-
-````javascript
-    function multipleOfIndex(array) {
-        return array.filter((element, index) => element % index === 0);
-    }
-````
-
-## 
-
-````javascript
-
-````
